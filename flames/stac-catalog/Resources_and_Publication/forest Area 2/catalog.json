@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "forest Area 2_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for forest Area 2",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./forest Area 2-item/forest Area 2-item.json",
+      "type": "application/json"
+    }
+  ]
+}

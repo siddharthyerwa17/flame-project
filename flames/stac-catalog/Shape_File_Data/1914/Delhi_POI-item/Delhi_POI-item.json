@@ -1,0 +1,65 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Delhi_POI1-item",
+  "properties": {
+    "id": null,
+    "year": "1914",
+    "shp_file_url": "https://products.coderize.in/geoserver/Flame/wms?service=WMS&version=1.1.0&request=GetMap&layers=Flame%3Aptna_john_poi_1924&bbox=85.10274664050851%2C25.599702553472277%2C85.14858263985221%2C25.624358442150893&width=768&height=413&srs=EPSG%3A4326&styles=&format=application/openlayers",
+    "place_city": "Delhi",
+    "url_alias": "Delhi_POI",
+    "datetime": "2024-05-01T08:10:19.912155Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "shape_file": {
+      "href": "https://products.coderize.in/geoserver/Flame/wms?service=WMS&version=1.1.0&request=GetMap&layers=Flame%3Aptna_john_poi_1924&bbox=85.10274664050851%2C25.599702553472277%2C85.14858263985221%2C25.624358442150893&width=768&height=413&srs=EPSG%3A4326&styles=&format=application/openlayers",
+      "type": "application/geo+json"
+    }
+  },
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

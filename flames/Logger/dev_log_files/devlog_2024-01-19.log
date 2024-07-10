@@ -1,0 +1,15 @@
+2024-01-19 11:12:04,032 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-01-19 12:45:29,174 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-01-19 12:45:52,040 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-01-19 13:05:45,855 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] AutomatedEmail
+2024-01-19 16:33:09,933 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.691293534686437, long=75.90573595988133
+2024-01-19 16:33:22,639 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.691293534686437, long=75.90573595988133
+2024-01-19 16:38:26,533 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.642707401233398, long=75.9023928153723
+2024-01-19 16:49:31,980 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.691293534686437, long=75.90573595988133
+2024-01-19 16:49:38,172 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.691293534686437, long=75.90573595988133
+2024-01-19 16:51:26,849 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.642707401233398, long=75.9023928153723
+2024-01-19 16:52:08,950 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.642707401233398, long=75.9023928153723
+2024-01-19 18:02:34,288 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-01-19 18:08:19,274 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-01-19 18:08:52,832 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-01-19 18:09:11,253 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] TblRoadEstimateViewSet get_approved_estimates_by_lat_long lat=17.642707401233398, long=75.9023928153723

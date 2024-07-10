@@ -1,0 +1,4 @@
+2024-05-27 04:37:01,628 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-31 12:57:46,493 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-31 12:57:46,525 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 
+2024-06-04 05:16:37,769 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] add_Resources_and_Publication_Post Request create Data: {'title': 'flame Test', 'description': 'Our educational philosophy is rooted in the concept of Liberal Education.', 'author': 'flame', 'thumbnail': 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/1de46828288171.563729a800f2d.jpg', 'type': 'publication', 'is_resource': False, 'is_publication': True}

@@ -1,0 +1,4 @@
+2024-05-05 12:32:21,829 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-05 12:52:19,167 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-05 15:53:14,353 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:29:52,831 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 

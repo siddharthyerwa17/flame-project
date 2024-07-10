@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "f-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author": "Nature",
+    "title": "f",
+    "description": "Animals that live in forests have highly developed hearing, and many are adapted for vertical movement through the environment. Because food other than ground plants is scarce, many ground-dwelling animals use forests only for shelter. In temperate forests, birds distribute plant seeds and insects aid in pollination, along with the wind. In tropical forests, fruit bats and birds effect pollination and seed dispersal. The forest is one of nature\u2019s most efficient ecosystems, with a high rate of photosynthesis affecting both plant and animal systems in a series of complex organic relationships.",
+    "is_resource": false,
+    "is_publication": true,
+    "datetime": "2024-05-21T09:28:36.646768Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

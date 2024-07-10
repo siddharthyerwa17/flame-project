@@ -1,0 +1,59 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "An Atlas of Environmental Change in India-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://products.coderize.in/flame2images/ATLAS.png",
+    "title": "An Atlas of Environmental Change in India",
+    "description": "Satellite remote sensing and other data to examine India\u2019s changing environment over 40 years including Land Use Land Cover maps of (i) National Parks (ii) Wildlife Sanctuaries (iii) Urban Areas and more. Satellite Imagery from Landsat Series of Satellites, Sentinel, and Commercial. Four time periods between 1990 to 2023. Maps to create: (a) False Color Composites and Indices Maps, (b) Supervised Classified LULC Maps, (c) Boundary maps of the protected areas, (d) Relief maps, (e) Climate and weather data, (f) Transportation network.",
+    "datetime": "2024-05-22T10:15:22.795924Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

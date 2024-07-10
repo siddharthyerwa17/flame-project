@@ -1,0 +1,176 @@
+2024-05-06 05:36:48,168 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:29:06,533 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:31:21,840 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:32:35,869 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:32:35,951 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:32:43,748 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:32:50,701 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:33:50,818 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:34:02,240 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:36:39,506 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:36:40,523 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:37:03,146 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:37:03,251 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:37:20,498 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:38:29,000 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:38:45,412 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:38:46,406 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:39:09,517 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:39:09,595 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:39:53,485 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:42:45,307 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:42:45,426 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:42:51,671 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 07:44:14,422 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 07:44:14,491 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 08:48:33,598 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 09:28:17,554 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:29:12,826 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:29:51,320 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:29:51,401 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:30:12,190 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:30:37,649 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:30:37,796 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:33:19,900 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:33:31,255 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:35:39,756 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:36:21,021 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:38:48,993 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:41:44,694 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:42:07,195 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:42:13,697 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:42:51,385 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:44:35,307 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:44:37,698 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:45:38,393 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:45:50,425 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:46:43,197 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:47:56,054 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:48:01,233 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:49:23,610 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:49:46,537 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-06 09:51:58,010 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:52:10,463 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:52:33,706 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:52:47,427 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:53:27,202 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:53:33,590 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:53:48,798 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:54:30,210 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:54:57,087 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:55:26,618 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:55:34,046 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:55:49,059 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:56:01,896 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:57:24,140 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:57:41,627 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:58:48,616 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 09:59:00,906 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:00:46,793 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:01:21,792 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:02:37,496 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:04:22,027 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:05:38,498 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:11:02,469 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:13:45,146 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:14:10,535 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:14:34,520 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 10:27:14,018 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 11:04:50,907 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 11:22:10,826 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-05-06 12:21:29,031 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:29:05,996 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:30:57,407 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:31:14,044 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:32:20,328 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:33:31,239 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:33:43,192 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:33:55,517 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:33:59,951 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:36:37,549 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:36:52,335 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Patna&limit=5&offset=0'> [data fetched successfully] 
+2024-05-06 12:37:28,459 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:37:32,903 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 12:40:33,693 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 12:40:49,833 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 12:40:50,149 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 12:40:51,955 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 12:40:57,246 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 12:40:58,997 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:16:25,493 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:16:25,626 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:16:25,799 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:16:26,592 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:16:27,117 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:17:19,822 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:17:20,090 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:17:21,213 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request create Data: {}
+2024-05-06 13:46:58,387 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-06 13:51:05,500 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 04:45:30,587 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 04:45:34,120 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 04:45:46,695 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 04:52:26,403 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 04:52:43,409 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 04:52:46,810 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Patna&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 04:53:31,109 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Delhi&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 04:53:56,316 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Pune&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 05:06:30,399 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:07:39,684 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:10:30,535 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:16:43,747 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:18:04,639 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:18:55,145 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:19:28,741 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:20:55,416 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:24:04,418 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:25:50,796 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:37:16,921 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:37:28,007 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:37:37,687 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:48:45,447 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:48:51,952 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Pune&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 05:55:42,313 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:55:52,552 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 05:56:41,855 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:56:45,155 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 05:57:32,706 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 05:57:36,214 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 05:57:36,218 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:03:04,566 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:03:07,534 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:03:07,538 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:08:25,192 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:08:28,203 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=atlas&selectedYears=g&selectedYears=1914&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:09:25,823 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:09:29,199 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1914&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:09:29,205 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:09:29,517 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:10:08,901 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:14:48,936 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:14:52,457 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:16:19,919 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:16:23,059 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Patna&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:16:26,506 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=Patna&selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:18:01,128 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:18:03,800 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:22:15,611 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:22:17,601 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=2004&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:40:57,401 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 06:41:04,784 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 06:57:27,985 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:08:27,257 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 07:08:33,522 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:08:44,022 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1914&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:08:47,705 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=2004&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:08:54,194 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Pune&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:08:59,215 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Pune&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:09:41,925 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 07:09:45,420 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Pune&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:11:21,059 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 07:11:58,306 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 07:12:05,280 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1914&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:12:13,552 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1914&selectedYears=2004&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:12:15,500 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_year <rest_framework.request.Request: GET '/stac/sb_shape_file_by_year/?selectedYears=1914&selectedYears=2004&selectedYears=1924&limit=5&offset=0'> [data fetched successfully] 
+2024-05-07 07:12:43,849 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-07 07:12:45,744 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=Pune&limit=5&offset=0'> [data fetched successfully] 

@@ -1,0 +1,109 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "file_example_JPG_2500kB.jpg-item",
+  "properties": {
+    "id": 1,
+    "major": "Open City Pune 1",
+    "submajor": "Subcollection 1",
+    "minor": "Minor 1",
+    "subminor": "Subminor 1",
+    "grade": "Grade 1",
+    "file_formats": ".kmz",
+    "type": "null",
+    "source_description": "null",
+    "place_city": "Place 1",
+    "year": "2024",
+    "publisher": "Publisher 1",
+    "path": "/Historic GIS/Cities/Classification/City Growth/Benaras",
+    "collection": "",
+    "collection_type": "null",
+    "soi_toposheet_no": "null",
+    "grade1": "null",
+    "data_resolution": "null",
+    "ownership": "null",
+    "is_processed": "null",
+    "short_descr": "null",
+    "descr": "Description 1",
+    "img_service": "null",
+    "img_dw": "null, Validators.required",
+    "map_service": "null, Validators.required",
+    "map_dw": "null",
+    "publish_on": "null",
+    "thumbnail": "null",
+    "source": "null",
+    "created_id": "null",
+    "created_date": "null",
+    "modified_id": "null",
+    "modified_date": "null",
+    "deleted_id": "null",
+    "deleted_date": "null",
+    "img_download_url": "https://file-examples.com/storage/feb802a3c6659fde593ca0d/2017/10/file_example_JPG_2500kB.jpg",
+    "img_vis_url": "https://stuartmatthews.github.io/leaflet-geotiff/tif/wind_speed.tif",
+    "shp_file_url": [
+      {
+        "url": "https://products.coderize.in/geoserver/geoset/wms?service=WMS&version=1.1.0&request=GetMap&layers=geoset%3Atblpunewards&bbox=73.74958801269531%2C18.40921974182129%2C73.96296691894531%2C18.62176513671875&width=768&height=765&srs=EPSG%3A4326&styles=&format=application/openlayers",
+        "urlalias": "Pune Wards 1"
+      },
+      {
+        "url": "https://products.coderize.in/geoserver/GeoFlow/wms?service=WMS&version=1.1.0&request=GetMap&layers=GeoFlow%3Asolapur_allroads&bbox=75.3240966796875%2C17.498483657836914%2C76.11711883544922%2C18.00309181213379&width=768&height=488&srs=EPSG%3A4326&styles=&format=application/openlayers",
+        "urlalias": "Solapur Roads 1"
+      }
+    ],
+    "sub_collection": "",
+    "urlalias": "",
+    "datetime": "2024-01-11T12:46:44.538182Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          3840.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          5760.0,
+          0.0
+        ],
+        [
+          5760.0,
+          3840.0
+        ],
+        [
+          0.0,
+          3840.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://file-examples.com/storage/feb802a3c6659fde593ca0d/2017/10/file_example_JPG_2500kB.jpg",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    0.0,
+    3840.0,
+    5760.0,
+    0.0
+  ],
+  "stac_extensions": []
+}

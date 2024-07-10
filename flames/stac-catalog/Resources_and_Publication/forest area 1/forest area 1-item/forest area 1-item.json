@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "forest area 1-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author": "Nature",
+    "title": "forest area 1",
+    "description": "Forest types are distinguished from each other according to species composition (which develops in part according to the age of the forest), the density of tree cover, type of soils found there, and the geologic history of the forest region. Altitude and unique meteorological conditions can also shape forest development (see cloud forest and elfin woodland).",
+    "is_resource": false,
+    "is_publication": true,
+    "datetime": "2024-05-20T10:51:57.000449Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

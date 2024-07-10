@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "PUNE_SUPERVISED_LULC_Pune_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for PUNE_SUPERVISED_LULC, Pune",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./19980220_pune_lulc.tif-item/19980220_pune_lulc.tif-item.json",
+      "type": "application/json"
+    }
+  ]
+}

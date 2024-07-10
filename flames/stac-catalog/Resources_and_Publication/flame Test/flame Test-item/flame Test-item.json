@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "flame Test-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1de46828288171.563729a800f2d.jpg",
+    "author": "flame",
+    "title": "flame Test",
+    "description": "Our educational philosophy is rooted in the concept of Liberal Education.",
+    "is_resource": false,
+    "is_publication": true,
+    "datetime": "2024-06-04T05:16:37.796591Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

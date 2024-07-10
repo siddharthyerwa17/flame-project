@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "forest area-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "",
+    "author": "Nature",
+    "title": "forest area",
+    "description": "In more temperate high-latitude climates, mixed forests of both conifers and broad-leaved deciduous trees predominate. Broad-leaved deciduous forests develop in middle-latitude climates, where there is an average temperature above 10 \u00b0C (50 \u00b0F) for at least six months every year and annual precipitation is above 400 mm (16 inches). A growing period of 100 to 200 days allows deciduous forests to be dominated by oaks (Quercus), elms (Ulmus), birches (Betula), maples (Acer), beeches (Fagus), and aspens (Populus).",
+    "is_resource": "true",
+    "is_publication": "false",
+    "datetime": "2024-05-20T10:48:12.635429Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

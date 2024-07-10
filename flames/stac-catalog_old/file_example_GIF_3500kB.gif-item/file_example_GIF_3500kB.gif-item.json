@@ -1,0 +1,105 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "file_example_GIF_3500kB.gif-item",
+  "properties": {
+    "id": null,
+    "major": "Open City Pune",
+    "submajor": "Subcollection 4",
+    "minor": "Minor 4",
+    "subminor": "Subminor 4",
+    "grade": "Grade 4",
+    "file_formats": null,
+    "type": null,
+    "source_description": null,
+    "place_city": "* Place/City 4",
+    "year": "1970",
+    "publisher": "Publisher 4",
+    "path": null,
+    "collection": "",
+    "collection_type": null,
+    "soi_toposheet_no": null,
+    "grade1": null,
+    "data_resolution": null,
+    "ownership": null,
+    "is_processed": null,
+    "short_descr": null,
+    "descr": "Description 4",
+    "img_service": null,
+    "img_dw": null,
+    "map_service": null,
+    "map_dw": null,
+    "publish_on": null,
+    "thumbnail": null,
+    "source": null,
+    "created_id": null,
+    "created_date": null,
+    "modified_id": null,
+    "modified_date": null,
+    "deleted_id": null,
+    "deleted_date": null,
+    "img_download_url": "https://file-examples.com/storage/fee710faaf65ae8909c8513/2017/10/file_example_GIF_3500kB.gif",
+    "img_vis_url": "https://stuartmatthews.github.io/leaflet-geotiff/tif/wind_speed.tif",
+    "shp_file_url": [
+      {
+        "url": null,
+        "urlalias": null
+      }
+    ],
+    "sub_collection": "",
+    "urlalias": "",
+    "datetime": "2024-01-25T05:25:02.867914Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          3840.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          5760.0,
+          0.0
+        ],
+        [
+          5760.0,
+          3840.0
+        ],
+        [
+          0.0,
+          3840.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://file-examples.com/storage/fee710faaf65ae8909c8513/2017/10/file_example_GIF_3500kB.gif",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    0.0,
+    3840.0,
+    5760.0,
+    0.0
+  ],
+  "stac_extensions": []
+}

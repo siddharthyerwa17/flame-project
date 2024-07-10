@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "Open Pune - Methodology for Land Use /Land Cover (LULC) Classification Landsat Satellite Data (1990-2023)_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for Open Pune - Methodology for Land Use /Land Cover (LULC) Classification Landsat Satellite Data (1990-2023)",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Open Pune - Methodology for Land Use /Land Cover (LULC) Classification Landsat Satellite Data (1990-2023)-item/Open Pune - Methodology for Land Use /Land Cover (LULC) Classification Landsat Satellite Data (1990-2023)-item.json",
+      "type": "application/json"
+    }
+  ]
+}

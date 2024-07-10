@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Open Pune - Methodology for Land Use /Land Cover (LULC) Classification Landsat Satellite Data (1990-2023)-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://products.coderize.in/flame2images/PUNE_LULC_METHODOLOGY.pdf",
+    "author": "",
+    "title": "Open Pune - Methodology for Land Use /Land Cover (LULC) Classification Landsat Satellite Data (1990-2023)",
+    "description": "Land use and land cover changes have become essential components of current strategies for managing natural resources and monitoring environmental changes. Studying land cover dynamics is critical for sustainable landscape management and planning. To maintain existing natural resources and understand the causes and consequences of urban expansion, soil and water resource over-exploitation, land use/land cover (LULC) mapping and monitoring were conducted in Pune City.",
+    "is_resource": true,
+    "is_publication": false,
+    "datetime": "2024-05-21T04:18:41.046483Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

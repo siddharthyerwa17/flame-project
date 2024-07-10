@@ -1,0 +1,105 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "1914_AHMD_BAED_R.tif-item",
+  "properties": {
+    "id": 1,
+    "major": "Historical GIS Of India",
+    "submajor": "pune shp file",
+    "minor": "pune shp",
+    "subminor": "shp file",
+    "grade": "a",
+    "file_formats": ".kmz",
+    "type": "null",
+    "source_description": "null",
+    "place_city": "pune city",
+    "year": "1947",
+    "publisher": "pune shp publisher",
+    "path": "/Historic GIS/Cities/Classification/City Growth/Benaras",
+    "collection": "",
+    "collection_type": "null",
+    "soi_toposheet_no": "null",
+    "grade1": "null",
+    "data_resolution": "null",
+    "ownership": "null",
+    "is_processed": "null",
+    "short_descr": "null",
+    "descr": "pune publishing shp file",
+    "img_service": "null",
+    "img_dw": "null, Validators.required",
+    "map_service": "null, Validators.required",
+    "map_dw": "null",
+    "publish_on": "null",
+    "thumbnail": "null",
+    "source": "null",
+    "created_id": "null",
+    "created_date": "null",
+    "modified_id": "null",
+    "modified_date": "null",
+    "deleted_id": "null",
+    "deleted_date": "null",
+    "img_download_url": "https://products.coderize.in/flame2images/1914_AHMD_BAED_R.tif",
+    "img_vis_url": "https://products.coderize.in/flame2images/1914_AHMD_BAED_R.tif",
+    "shp_file_url": [
+      {
+        "url": "https://products.coderize.in/geoserver/Geoscanner/wms?service=WMS&version=1.1.0&request=GetMap&layers=Geoscanner%3AHospitals&bbox=73.83040618896484%2C18.491086959838867%2C73.90058898925781%2C18.522838592529297&width=768&height=347&srs=EPSG%3A4326&styles=&format=application/openlayers",
+        "urlalias": "pune new layer"
+      }
+    ],
+    "sub_collection": "",
+    "urlalias": "",
+    "datetime": "2024-05-07T05:06:09.397451Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          72.5747623081976,
+          23.01319286623908
+        ],
+        [
+          72.5747623081976,
+          23.040571070810667
+        ],
+        [
+          72.59540635761248,
+          23.040571070810667
+        ],
+        [
+          72.59540635761248,
+          23.01319286623908
+        ],
+        [
+          72.5747623081976,
+          23.01319286623908
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://products.coderize.in/flame2images/1914_AHMD_BAED_R.tif",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    72.5747623081976,
+    23.01319286623908,
+    72.59540635761248,
+    23.040571070810667
+  ],
+  "stac_extensions": []
+}

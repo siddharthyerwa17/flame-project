@@ -1,0 +1,65 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Hospital_data-item",
+  "properties": {
+    "id": null,
+    "year": "2004",
+    "shp_file_url": "https://products.coderize.in/geoserver/Geoscanner/wms?service=WMS&version=1.1.0&request=GetMap&layers=Geoscanner%3AHospitals&bbox=73.83040618896484%2C18.491086959838867%2C73.90058898925781%2C18.522838592529297&width=768&height=347&srs=EPSG%3A4326&styles=&format=application/openlayers",
+    "place_city": "Pune",
+    "url_alias": "Hospital_data",
+    "datetime": "2024-05-01T08:55:24.655296Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "shape_file": {
+      "href": "https://products.coderize.in/geoserver/Geoscanner/wms?service=WMS&version=1.1.0&request=GetMap&layers=Geoscanner%3AHospitals&bbox=73.83040618896484%2C18.491086959838867%2C73.90058898925781%2C18.522838592529297&width=768&height=347&srs=EPSG%3A4326&styles=&format=application/openlayers",
+      "type": "application/geo+json"
+    }
+  },
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

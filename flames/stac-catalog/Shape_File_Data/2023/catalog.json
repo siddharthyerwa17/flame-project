@@ -1,0 +1,23 @@
+{
+  "type": "Catalog",
+  "id": "2023_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for 2023",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file1.geojson-item/file1.geojson-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file2.geojson-item/file2.geojson-item.json",
+      "type": "application/json"
+    }
+  ]
+}

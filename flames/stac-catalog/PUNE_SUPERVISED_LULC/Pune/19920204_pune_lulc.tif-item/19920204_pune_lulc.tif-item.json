@@ -1,0 +1,105 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "19920204_pune_lulc.tif-item",
+  "properties": {
+    "id": null,
+    "major": "Atlas Of Changing Environment",
+    "submajor": "LULC",
+    "minor": "LULC",
+    "subminor": "LULC",
+    "grade": "LULC",
+    "file_formats": null,
+    "type": null,
+    "source_description": null,
+    "place_city": "Pune",
+    "year": "1992",
+    "publisher": "MapLab",
+    "path": null,
+    "collection": "",
+    "collection_type": null,
+    "soi_toposheet_no": null,
+    "grade1": null,
+    "data_resolution": null,
+    "ownership": null,
+    "is_processed": null,
+    "short_descr": null,
+    "descr": "19920204_pune_lulc",
+    "img_service": null,
+    "img_dw": null,
+    "map_service": null,
+    "map_dw": null,
+    "publish_on": null,
+    "thumbnail": null,
+    "source": null,
+    "created_id": null,
+    "created_date": null,
+    "modified_id": null,
+    "modified_date": null,
+    "deleted_id": null,
+    "deleted_date": null,
+    "img_download_url": "http://192.168.8.2/PUNE_SUPERVISED_LULC/1992/19920204_pune_lulc.tif",
+    "img_vis_url": "http://192.168.8.2/PUNE_SUPERVISED_LULC/1992/19920204_pune_lulc_cog.tif",
+    "shp_file_url": [
+      {
+        "url": null,
+        "urlalias": null
+      }
+    ],
+    "sub_collection": "",
+    "urlalias": "",
+    "datetime": "2024-05-02T18:48:00.844992Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          366105.0,
+          2033205.0
+        ],
+        [
+          366105.0,
+          2059365.0
+        ],
+        [
+          396465.0,
+          2059365.0
+        ],
+        [
+          396465.0,
+          2033205.0
+        ],
+        [
+          366105.0,
+          2033205.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "http://192.168.8.2/PUNE_SUPERVISED_LULC/1992/19920204_pune_lulc.tif",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    366105.0,
+    2033205.0,
+    396465.0,
+    2059365.0
+  ],
+  "stac_extensions": []
+}

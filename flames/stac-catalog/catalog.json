@@ -1,0 +1,768 @@
+{
+  "type": "Catalog",
+  "id": "my-stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "My STAC Catalog",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./file_example_TIFF_5MB.tiff-item/file_example_TIFF_5MB.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./480-360-sample.tiff-item/480-360-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1920-1080-sample.tiff-item/1920-1080-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1280-720-sample.tiff-item/1280-720-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1280-720-sample.tiff-item/1280-720-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1280-720-sample.tiff-item/1280-720-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1280-720-sample.tiff-item/1280-720-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./640-480-sample.tiff-item/640-480-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./640-480-sample.tiff-item/640-480-sample.tiff-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1850_DLHI_TAHL_R.tif (1).tif-item/1850_DLHI_TAHL_R.tif (1).tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1850_DLHI_TAHL_R.tif (1).tif-item/1850_DLHI_TAHL_R.tif (1).tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./SEO-URL-1.jpg-item/SEO-URL-1.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./SEO-URL-1.jpg-item/SEO-URL-1.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190214_pune_lulc_2024-01-16_08-23-10_cog.tif-item/20190214_pune_lulc_2024-01-16_08-23-10_cog.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190214_pune_lulc_2024-01-16_08-23-10_cog.tif-item/20190214_pune_lulc_2024-01-16_08-23-10_cog.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./uNg4a.jpg-item/uNg4a.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./uNg4a.jpg-item/uNg4a.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./t012c423e37fa9c31b4.png-item/t012c423e37fa9c31b4.png-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./t012c423e37fa9c31b4.png-item/t012c423e37fa9c31b4.png-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./3-url-parameters.jpg-item/3-url-parameters.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./3-url-parameters.jpg-item/3-url-parameters.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1.jpg-item/1.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1.jpg-item/1.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./website-454460_640.jpg-item/website-454460_640.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./website-454460_640.jpg-item/website-454460_640.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_2020.tif-item/NDVI_2020.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_2020.tif-item/NDVI_2020.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_2020.tif-item/NDVI_2020.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_2020.tif-item/NDVI_2020.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1812_BOMB_TAHL_R.tif-item/1812_BOMB_TAHL_R.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1812_BOMB_TAHL_R.tif-item/1812_BOMB_TAHL_R.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1893_DLEN_CONS_R.tif-item/1893_DLEN_CONS_R.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1893_DLEN_CONS_R.tif-item/1893_DLEN_CONS_R.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_1990.tif-item/NDVI_1990.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_1990.tif-item/NDVI_1990.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_1990.tif-item/NDVI_1990.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_1990.tif-item/NDVI_1990.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDMI_1991.tif-item/NDMI_1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDMI_1991.tif-item/NDMI_1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDMI_1991.tif-item/NDMI_1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDMI_1991.tif-item/NDMI_1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1991.tif-item/1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1991.tif-item/1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1991.tif-item/1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1991.tif-item/1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wp2599594.jpg-item/wp2599594.jpg-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./wind_speed.tif-item/wind_speed.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./19910217_pune_lulc.tif-item/19910217_pune_lulc.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./19910217_pune_lulc.tif-item/19910217_pune_lulc.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1991.tif-item/1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1991.tif-item/1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_1991.tif-item/NDVI_1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./NDVI_1991.tif-item/NDVI_1991.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1914_AHMD_BAED_R.tif-item/1914_AHMD_BAED_R.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./1914_AHMD_BAED_R.tif-item/1914_AHMD_BAED_R.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./19910217_pune_lulc.tif-item/19910217_pune_lulc.tif-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./19910217_pune_lulc.tif-item/19910217_pune_lulc.tif-item.json",
+      "type": "application/json"
+    }
+  ]
+}

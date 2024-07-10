@@ -1,0 +1,13 @@
+2024-06-26 15:23:31,927 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-06-26 15:29:14,478 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-06-26 16:43:04,532 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-06-26 16:43:04,601 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 
+2024-06-26 16:43:08,936 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-06-26 16:43:08,991 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 
+2024-06-26 16:43:13,887 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-06-26 16:43:13,912 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 
+2024-06-26 16:43:17,684 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-06-26 16:43:17,703 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 
+2024-06-26 16:43:30,431 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-06-26 16:43:30,448 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 
+2024-06-26 19:24:46,500 SMARTdev_loggerLogger.logger_obj DEBUG logging started

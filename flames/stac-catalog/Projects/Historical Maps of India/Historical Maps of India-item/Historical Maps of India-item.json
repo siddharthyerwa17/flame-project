@@ -1,0 +1,59 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Historical Maps of India-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://products.coderize.in/flame2images/Historical_map_of_india.jpg",
+    "title": "Historical Maps of India",
+    "description": "A platform for digital maps of India from antique, pre-colonial, and colonial times to study aspects of the environmental history of India through historic maps. Our collection includes georeferenced and classified maps with searchable points of interest, aimed at expanding work in Historical GIS and spatial humanities in India.",
+    "datetime": "2024-05-22T10:21:09.810974Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

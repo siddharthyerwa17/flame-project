@@ -1,0 +1,105 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "SEO-URL-1.jpg-item",
+  "properties": {
+    "id": 1,
+    "major": "Others",
+    "submajor": "Subcollection 1",
+    "minor": "Minor 1",
+    "subminor": "Subminor 1",
+    "grade": "Grade 1",
+    "file_formats": null,
+    "type": null,
+    "source_description": null,
+    "place_city": "Pune",
+    "year": "1904",
+    "publisher": "Publisher 1",
+    "path": null,
+    "collection": "",
+    "collection_type": null,
+    "soi_toposheet_no": null,
+    "grade1": null,
+    "data_resolution": null,
+    "ownership": null,
+    "is_processed": null,
+    "short_descr": null,
+    "descr": "Description 1",
+    "img_service": null,
+    "img_dw": null,
+    "map_service": null,
+    "map_dw": null,
+    "publish_on": null,
+    "thumbnail": null,
+    "source": null,
+    "created_id": null,
+    "created_date": null,
+    "modified_id": null,
+    "modified_date": null,
+    "deleted_id": null,
+    "deleted_date": null,
+    "img_download_url": "https://products.coderize.in/flame2images/SIPI_1991.tif",
+    "img_vis_url": "https://products.coderize.in/flame2images/SIPI_1991_cog.tif",
+    "shp_file_url": [
+      {
+        "url": null,
+        "urlalias": null
+      }
+    ],
+    "sub_collection": "",
+    "urlalias": "",
+    "datetime": "2024-02-05T07:25:54.948404Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          924.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          2000.0,
+          0.0
+        ],
+        [
+          2000.0,
+          924.0
+        ],
+        [
+          0.0,
+          924.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://realtybiznews.com/wp-content/uploads/2017/04/SEO-URL-1.jpg",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    0.0,
+    924.0,
+    2000.0,
+    0.0
+  ],
+  "stac_extensions": []
+}

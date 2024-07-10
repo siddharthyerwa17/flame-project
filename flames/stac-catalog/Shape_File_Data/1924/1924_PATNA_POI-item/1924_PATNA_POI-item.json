@@ -1,0 +1,65 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "1924_PATNA_POI-item",
+  "properties": {
+    "id": null,
+    "year": "1924",
+    "shp_file_url": "https://products.coderize.in/geoserver/Flame/wms?service=WMS&version=1.1.0&request=GetMap&layers=Flame%3Apoi_delhi&bbox=77.23089999999999%2C28.6129%2C77.2311%2C28.6131&width=768&height=767&srs=EPSG%3A4326&styles=&format=application/openlayers",
+    "place_city": "Patna",
+    "url_alias": "1924_PATNA_POI",
+    "datetime": "2024-05-01T08:08:52.258498Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "shape_file": {
+      "href": "https://products.coderize.in/geoserver/Flame/wms?service=WMS&version=1.1.0&request=GetMap&layers=Flame%3Apoi_delhi&bbox=77.23089999999999%2C28.6129%2C77.2311%2C28.6131&width=768&height=767&srs=EPSG%3A4326&styles=&format=application/openlayers",
+      "type": "application/geo+json"
+    }
+  },
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

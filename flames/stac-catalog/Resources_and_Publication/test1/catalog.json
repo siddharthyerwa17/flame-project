@@ -1,0 +1,23 @@
+{
+  "type": "Catalog",
+  "id": "test1_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for test1",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./test1-item/test1-item.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./test1-item/test1-item.json",
+      "type": "application/json"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "forest Area 2-item",
+  "properties": {
+    "id": null,
+    "thumbnail": null,
+    "author": "Nature",
+    "title": "forest Area 2",
+    "description": "Soil conditions are distinguished according to depth, fertility, and the presence of perennial roots. Soil depth is important because it determines the extent to which roots can penetrate into the earth and, therefore, the amount of water and nutrients available to the trees. The soil in the taiga is sandy and drains quickly. Deciduous forests have brown soil, richer than sand in nutrients, and less porous. Rainforests and savanna woodlands often have a soil layer rich in iron or aluminum, which give the soils either a reddish or yellowish cast. Given the vast amounts of rain they receive, the soil is often poor in tropical rainforests, as the nutrients are quickly leached away.",
+    "is_resource": true,
+    "is_publication": false,
+    "datetime": "2024-05-20T10:52:41.723346Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

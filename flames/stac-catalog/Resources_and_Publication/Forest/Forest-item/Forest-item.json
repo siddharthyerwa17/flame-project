@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "Forest-item",
+  "properties": {
+    "id": null,
+    "thumbnail": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author": "Nature",
+    "title": "Forest",
+    "description": "In the humid climates of the equatorial belt are tropical rainforests, which support incredible plant and animal biodiversity. There heavy rainfall supports evergreens that have broad leaves instead of needle leaves, as in cooler forests. Monsoon forests, which are the deciduous forests of tropical areas, are found in regions with a long dry season followed by an intense rainy season. In the lower latitudes of the Southern Hemisphere, the temperate deciduous forest reappears.",
+    "is_resource": false,
+    "is_publication": true,
+    "datetime": "2024-05-20T10:23:22.480109Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}

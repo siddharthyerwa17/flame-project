@@ -1,0 +1,22 @@
+2024-05-02 04:56:47,439 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 04:58:38,025 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:00:23,840 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:02:12,929 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:03:06,896 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:07:53,915 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:10:02,855 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:15:32,352 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 05:29:49,894 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 06:58:03,518 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 06:58:22,257 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] get_filtered_pubndResource_stac_items <rest_framework.request.Request: GET '/stac/filtered_pubndResource_stac_items/?author=Beena'> [data fetched successfully] 
+2024-05-02 06:58:30,829 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] get_filtered_pubndResource_stac_items <rest_framework.request.Request: GET '/stac/filtered_pubndResource_stac_items/?author=Varsha'> [data fetched successfully] 
+2024-05-02 07:45:37,385 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] shape_file_main_section_data <rest_framework.request.Request: GET '/stac/search_side_bar_shape_file/'> [data fetched successfully] 
+2024-05-02 07:45:43,692 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] sb_shape_file_by_place <rest_framework.request.Request: GET '/stac/sb_shape_file_by_place/?selectedPlace=NDVI&selectedPlace=Delhi&limit=5&offset=0'> [data fetched successfully] 
+2024-05-02 10:37:13,045 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 10:37:52,605 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 11:03:19,133 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 11:12:08,332 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 11:39:27,305 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 12:49:10,959 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 13:07:17,857 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-05-02 13:19:11,709 SMARTdev_loggerLogger.logger_obj DEBUG logging started

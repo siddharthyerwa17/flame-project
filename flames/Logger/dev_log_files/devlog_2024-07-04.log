@@ -1,0 +1,4 @@
+2024-07-04 07:16:46,996 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-07-04 08:42:18,055 SMARTdev_loggerLogger.logger_obj DEBUG logging started
+2024-07-06 08:15:24,156 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] Request [data fetched successfully] 
+2024-07-06 08:15:24,634 SMARTdev_loggerLogger.logger_obj DEBUG [API Call] WSGIRequest [data fetched successfully] 

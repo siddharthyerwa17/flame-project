@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "forest 4_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for forest 4",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./forest 4-item/forest 4-item.json",
+      "type": "application/json"
+    }
+  ]
+}

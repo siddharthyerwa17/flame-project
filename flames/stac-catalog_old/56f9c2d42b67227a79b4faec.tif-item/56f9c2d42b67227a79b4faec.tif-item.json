@@ -1,0 +1,105 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "56f9c2d42b67227a79b4faec.tif-item",
+  "properties": {
+    "id": null,
+    "major": "Open City Pune",
+    "submajor": "Subcollection 8",
+    "minor": "Minor 8",
+    "subminor": "Subminor 8",
+    "grade": "Grade 8",
+    "file_formats": null,
+    "type": null,
+    "source_description": null,
+    "place_city": "* Place/City 8",
+    "year": "1970",
+    "publisher": "Publisher 8",
+    "path": null,
+    "collection": "",
+    "collection_type": null,
+    "soi_toposheet_no": null,
+    "grade1": null,
+    "data_resolution": null,
+    "ownership": null,
+    "is_processed": null,
+    "short_descr": null,
+    "descr": "Description 8",
+    "img_service": null,
+    "img_dw": null,
+    "map_service": null,
+    "map_dw": null,
+    "publish_on": null,
+    "thumbnail": null,
+    "source": null,
+    "created_id": null,
+    "created_date": null,
+    "modified_id": null,
+    "modified_date": null,
+    "deleted_id": null,
+    "deleted_date": null,
+    "img_download_url": "https://oin-hotosm.s3.amazonaws.com/56f9b5a963ebf4bc00074e70/0/56f9c2d42b67227a79b4faec.tif",
+    "img_vis_url": "https://stuartmatthews.github.io/leaflet-geotiff/tif/wind_speed.tif",
+    "shp_file_url": [
+      {
+        "url": null,
+        "urlalias": null
+      }
+    ],
+    "sub_collection": "",
+    "urlalias": "",
+    "datetime": "2024-01-25T06:16:19.368036Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          229579.08329,
+          8056954.580920001
+        ],
+        [
+          229579.08329,
+          8057866.857120001
+        ],
+        [
+          230309.56309,
+          8057866.857120001
+        ],
+        [
+          230309.56309,
+          8056954.580920001
+        ],
+        [
+          229579.08329,
+          8056954.580920001
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://oin-hotosm.s3.amazonaws.com/56f9b5a963ebf4bc00074e70/0/56f9c2d42b67227a79b4faec.tif",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    229579.08329,
+    8056954.580920001,
+    230309.56309,
+    8057866.857120001
+  ],
+  "stac_extensions": []
+}

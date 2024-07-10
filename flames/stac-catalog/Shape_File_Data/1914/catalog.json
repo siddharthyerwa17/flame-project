@@ -1,0 +1,18 @@
+{
+  "type": "Catalog",
+  "id": "1914_stac-catalog",
+  "stac_version": "1.0.0",
+  "description": "STAC Catalog for 1914",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./Delhi_POI-item/Delhi_POI-item.json",
+      "type": "application/json"
+    }
+  ]
+}

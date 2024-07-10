@@ -1,0 +1,60 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "test1-item",
+  "properties": {
+    "id": "amish_id",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwSffUv93QakzOuwoIHd71BxUS00C_sipzScaf32vVQr57oOCE9RXH7PTNcDaPcLXQefA&usqp=.jpg",
+    "author": "GIS",
+    "title": "Geoinformatics Perspective",
+    "description": "An exploration of geographical data and mapping techniques within the context of the highlighting the spatial aspects of journey and the landscapes encountered .",
+     "datetime": "2024-04-30T12:10:41.807535Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0.0,
+          720.0
+        ],
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1280.0,
+          720.0
+        ],
+        [
+          0.0,
+          720.0
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    0.0,
+    0.0,
+    1280.0,
+    720.0
+  ],
+  "stac_extensions": []
+}
