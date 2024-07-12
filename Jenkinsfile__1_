@@ -1,0 +1,44 @@
+pipeline{
+    agent  any 
+    stages {
+        stage ('Checkout') {
+            steps {
+                    git branch: 'main', credentialsId: '80ba5f14-28d4-4235-b4d1-88ee86d170d1', url: 'https://gitlab.com/jenkins-pipline/python/flame_university.git'
+            }
+        }
+        stage ('Setup virtual Environment') {
+            steps {
+                sh'''
+                chmod +x scripts_new/setup_virtualenv.sh
+                ./scripts_new/setup_virtualenv.sh
+                ''' 
+            }
+        }
+        stage ('Setup Environment') {
+            steps {
+                sh'''
+                chmod +x scripts_new/env_setup.sh
+                chmod +x scripts_new/check_env.sh
+                ./scripts_new/env_setup.sh
+                '''
+            }
+        }
+        stage ('Run Migrations') {
+            steps {
+                sh'''
+                chmod +x scripts_new/run_migration.sh
+                chmod +x scripts_new/check_env.sh
+                ./scripts_new/run_migration.sh
+                '''
+            }
+        }
+        stage ('Compressing the directory') {
+            steps {
+                sh'''
+                chmod +x scripts_new/zip_folder.sh
+                ./scripts_new/zip_folder.sh
+                '''
+            }
+        } 
+    }
+}
