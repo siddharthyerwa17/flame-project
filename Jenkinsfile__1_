@@ -3,7 +3,7 @@ pipeline{
     stages {
         stage ('Checkout') {
             steps {
-                    git branch: 'main', credentialsId: '80ba5f14-28d4-4235-b4d1-88ee86d170d1', url: 'https://gitlab.com/jenkins-pipline/python/flame_university.git'
+                    git branch: 'main', credentialsId: 'glpat-Vpz7vQvRYuTwSs8qgKWa', url: 'https://gitlab.com/coderizers/app_view/flame.git'
             }
         }
         stage ('Setup virtual Environment') {
