@@ -55,5 +55,5 @@ pipeline {
 
 // Function to check if file exists
 def fileExists(path) {
-    return fileExists path: path
+    return new File(path).exists()
 }
