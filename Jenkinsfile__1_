@@ -7,7 +7,8 @@ pipeline {
                 checkout scm
             }
         }
-       stage('Setup virtual Environment') {
+        
+        stage('Setup virtual Environment') {
             steps {
                 script {
                     def scriptPath = "${WORKSPACE}/scripts_new/setup_virtualenv.sh"
@@ -18,6 +19,9 @@ pipeline {
                         error "Script setup_virtualenv.sh not found at ${scriptPath}"
                     }
                 }
+            }
+        } // Closing stage('Setup virtual Environment')
+        
         stage ('Setup Environment') {
             steps {
                 sh'''
@@ -27,6 +31,7 @@ pipeline {
                 '''
             }
         }
+        
         stage ('Run Migrations') {
             steps {
                 sh'''
@@ -36,6 +41,7 @@ pipeline {
                 '''
             }
         }
+        
         stage ('Compressing the directory') {
             steps {
                 sh'''
@@ -43,6 +49,6 @@ pipeline {
                 ./scripts_new/zip_folder.sh
                 '''
             }
-        } 
+        }
     }
 }
