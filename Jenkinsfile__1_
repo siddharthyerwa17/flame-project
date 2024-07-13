@@ -8,6 +8,9 @@ pipeline {
             }
         }
         
+       pipeline {
+    agent any
+    stages {
         stage('Setup virtual Environment') {
             steps {
                 script {
@@ -20,7 +23,15 @@ pipeline {
                     }
                 }
             }
-        } // Closing stage('Setup virtual Environment')
+        }
+        // Add other stages as needed
+    }
+}
+
+def fileExists(path) {
+    return fileExists path: path
+}
+
         
         stage ('Setup Environment') {
             steps {
