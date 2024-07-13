@@ -8,9 +8,6 @@ pipeline {
             }
         }
         
-       pipeline {
-    agent any
-    stages {
         stage('Setup virtual Environment') {
             steps {
                 script {
@@ -24,14 +21,6 @@ pipeline {
                 }
             }
         }
-        // Add other stages as needed
-    }
-}
-
-def fileExists(path) {
-    return fileExists path: path
-}
-
         
         stage ('Setup Environment') {
             steps {
@@ -62,4 +51,8 @@ def fileExists(path) {
             }
         }
     }
+}
+
+def fileExists(path) {
+    return fileExists path: path
 }
