@@ -1,59 +1,69 @@
 pipeline {
     agent any
 
+    environment {
+        // Add any necessary environment variables here
+    }
+
     stages {
-        stage('Checkout SCM') {
+        stage('Checkout') {
             steps {
-                checkout scm
+                // Clone the repository
+                git 'https://github.com/jayeshkurella/flame-project.git'
             }
         }
-        
-        stage('Setup virtual Environment') {
+
+        stage('Set up Python Environment') {
             steps {
-                script {
-                    def scriptPath = "${WORKSPACE}/scripts_new/setup_virtualenv.sh"
-                    if (fileExists(scriptPath)) {
-                        sh "chmod +x ${scriptPath}"
-                        sh "./${scriptPath}"
-                    } else {
-                        error "Script setup_virtualenv.sh not found at ${scriptPath}"
-                    }
-                }
+                // Set up a Python virtual environment
+                sh 'python3 -m venv venv'
+                sh '. venv/bin/activate'
             }
         }
-        
-        stage ('Setup Environment') {
+
+        stage('Install Dependencies') {
             steps {
-                sh'''
-                chmod +x scripts_new/env_setup.sh
-                chmod +x scripts_new/check_env.sh
-                ./scripts_new/env_setup.sh
-                '''
+                // Install the project dependencies
+                sh '. venv/bin/activate && pip install -r requirements.txt'
             }
         }
-        
-        stage ('Run Migrations') {
+
+        stage('Run Migrations') {
             steps {
-                sh'''
-                chmod +x scripts_new/run_migration.sh
-                chmod +x scripts_new/check_env.sh
-                ./scripts_new/run_migration.sh
-                '''
+                // Run Django migrations
+                sh '. venv/bin/activate && python manage.py migrate'
             }
         }
-        
-        stage ('Compressing the directory') {
+
+        stage('Run Tests') {
             steps {
-                sh'''
-                chmod +x scripts_new/zip_folder.sh
-                ./scripts_new/zip_folder.sh
-                '''
+                // Run Django tests
+                sh '. venv/bin/activate && python manage.py test'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                // Add deployment steps here
+                // For example, copying files to the server, restarting services, etc.
+                sh '. venv/bin/activate && python manage.py collectstatic --noinput'
+                // Add other deployment steps specific to your environment
             }
         }
     }
-}
 
-// Function to check if file exists
-def fileExists(path) {
-    return new File(path).exists()
+    post {
+        always {
+            // Clean up the workspace
+            cleanWs()
+        }
+        success {
+            // Notify success
+            echo 'Deployment succeeded!'
+        }
+        failure {
+            // Notify failure
+            echo 'Deployment failed!'
+        }
+    }
 }
