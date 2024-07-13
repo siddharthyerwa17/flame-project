@@ -7,14 +7,17 @@ pipeline {
                 checkout scm
             }
         }
-        stage ('Setup virtual Environment') {
+       stage('Setup virtual Environment') {
             steps {
-                sh'''
-                chmod +x scripts_new/setup_virtualenv.sh
-                ./scripts_new/setup_virtualenv.sh
-                ''' 
-            }
-        }
+                script {
+                    def scriptPath = "${WORKSPACE}/scripts_new/setup_virtualenv.sh"
+                    if (fileExists(scriptPath)) {
+                        sh "chmod +x ${scriptPath}"
+                        sh "./${scriptPath}"
+                    } else {
+                        error "Script setup_virtualenv.sh not found at ${scriptPath}"
+                    }
+                }
         stage ('Setup Environment') {
             steps {
                 sh'''
