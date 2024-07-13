@@ -1,9 +1,10 @@
-pipeline{
-    agent  any 
+pipeline {
+    agent any
+
     stages {
-        stage ('Checkout') {
+        stage('Checkout SCM') {
             steps {
-                    git branch: 'main', credentialsId: 'glpat-Vpz7vQvRYuTwSs8qgKWa', url: 'https://gitlab.com/coderizers/app_view/flame.git'
+                checkout scm
             }
         }
         stage ('Setup virtual Environment') {
